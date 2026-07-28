@@ -17,7 +17,7 @@ namespace G_NET97_C_Basics01_Assignment_3
             Console.WriteLine(upperTitle);
 
             #endregion
-
+            Console.WriteLine("---------------------------------------------");
             #region Question 02
 
             string text1 = "Clean Code";
@@ -28,7 +28,7 @@ namespace G_NET97_C_Basics01_Assignment_3
             Console.WriteLine(sameObject);
 
             #endregion
-
+            Console.WriteLine("---------------------------------------------");
 
             #region Question 03
 
@@ -40,7 +40,7 @@ namespace G_NET97_C_Basics01_Assignment_3
             Console.WriteLine(bookList);
 
             #endregion
-
+            Console.WriteLine("---------------------------------------------");
 
             #region Question 04
 
@@ -49,7 +49,7 @@ namespace G_NET97_C_Basics01_Assignment_3
             Console.WriteLine(bookList);
 
             #endregion
-
+            Console.WriteLine("---------------------------------------------");
             #region Question 05
 
             string bookTitle = "Clean Code";
@@ -60,7 +60,7 @@ namespace G_NET97_C_Basics01_Assignment_3
             Console.WriteLine(result);
 
             #endregion
-
+            Console.WriteLine("---------------------------------------------");
             #region Question 06
 
             string bookTitle2 = "Clean Code";
@@ -71,7 +71,7 @@ namespace G_NET97_C_Basics01_Assignment_3
             Console.WriteLine(result2);
 
             #endregion
-
+            Console.WriteLine("---------------------------------------------");
 
             #region Question 07
 
@@ -87,6 +87,7 @@ namespace G_NET97_C_Basics01_Assignment_3
             Console.WriteLine(result3);
 
             #endregion
+            Console.WriteLine("---------------------------------------------");
             #region Question 08
 
             int pages4 = 464;
@@ -101,7 +102,7 @@ namespace G_NET97_C_Basics01_Assignment_3
             }
 
             #endregion
-
+            Console.WriteLine("---------------------------------------------");
 
             #region Question 09
 
@@ -115,7 +116,7 @@ namespace G_NET97_C_Basics01_Assignment_3
 
             #endregion
 
-
+            Console.WriteLine("---------------------------------------------");
             #region Question 10
 
             string title4 = "Refactoring";
@@ -137,7 +138,7 @@ namespace G_NET97_C_Basics01_Assignment_3
 
             #endregion
 
-
+            Console.WriteLine("---------------------------------------------");
             #region Question 11
 
             int pages6 = 464;
@@ -150,7 +151,7 @@ namespace G_NET97_C_Basics01_Assignment_3
 
             #endregion
 
-
+            Console.WriteLine("---------------------------------------------");
             #region Question 12
 
             string[] books =
@@ -166,7 +167,7 @@ namespace G_NET97_C_Basics01_Assignment_3
             }
 
             #endregion
-
+            Console.WriteLine("---------------------------------------------");
             #region Question 13
 
             int index = 0;
@@ -180,7 +181,7 @@ namespace G_NET97_C_Basics01_Assignment_3
 
             #endregion
 
-
+            Console.WriteLine("---------------------------------------------");
             #region Question 14
 
             int counter = 0;
@@ -195,7 +196,7 @@ namespace G_NET97_C_Basics01_Assignment_3
 
             #endregion
 
-
+            Console.WriteLine("---------------------------------------------");
             #region Question 15
 
             foreach (string book in books)
@@ -204,7 +205,7 @@ namespace G_NET97_C_Basics01_Assignment_3
             }
 
             #endregion
-
+            Console.WriteLine("---------------------------------------------");
             #region Question 16
 
             foreach (string book in books)
@@ -218,7 +219,7 @@ namespace G_NET97_C_Basics01_Assignment_3
             }
 
             #endregion
-
+            Console.WriteLine("---------------------------------------------");
             #region Question 17
 
             foreach (string book in books)
@@ -232,7 +233,7 @@ namespace G_NET97_C_Basics01_Assignment_3
             }
 
             #endregion
-
+            Console.WriteLine("---------------------------------------------");
 
             #region Question 18
 
